@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion Design on WANG Yufan | 王雨凡</title>
+    <link>https://wangyufanart.github.io/categories/fashion-design/</link>
+    <description>Recent content in Fashion Design on WANG Yufan | 王雨凡</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; WANG Yufan</copyright>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://wangyufanart.github.io/categories/fashion-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>毕业设计</title>
+      <link>https://wangyufanart.github.io/portfolio/project-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://wangyufanart.github.io/portfolio/project-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
