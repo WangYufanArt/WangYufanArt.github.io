@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>photograph on WANG Yufan | 王雨凡</title>
-    <link>https://wangyufanart.github.io/categories/photograph/</link>
-    <description>Recent content in photograph on WANG Yufan | 王雨凡</description>
+    <title>Photograph on WANG Yufan | 王雨凡</title>
+    <link>https://wangyufan.art/categories/photograph/</link>
+    <description>Recent content in Photograph on WANG Yufan | 王雨凡</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; WANG Yufan</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://wangyufanart.github.io/categories/photograph/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Sep 2018 12:14:34 +0600</lastBuildDate><atom:link href="https://wangyufan.art/categories/photograph/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project Title</title>
-      <link>https://wangyufanart.github.io/portfolio/project-5/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>ICE LAND</title>
+      <link>https://wangyufan.art/portfolio/project-7/</link>
+      <pubDate>Fri, 14 Sep 2018 12:14:34 +0600</pubDate>
       
-      <guid>https://wangyufanart.github.io/portfolio/project-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Project Title</title>
-      <link>https://wangyufanart.github.io/portfolio/project-6/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://wangyufanart.github.io/portfolio/project-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://wangyufan.art/portfolio/project-7/</guid>
+      <description>这是一组关于冰岛的摄影作品
+山川寂寥，街市井然，居民相安无事。爱须有心，而心已被嵌入无数的独角兽头盖骨化为古老的梦。 世界尽头与冷酷仙境 </description>
     </item>
     
   </channel>
